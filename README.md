@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdenRavecca
 - 👀 I’m interested in Raptors!
-- 🌱 I’m currently learning home range analysis.
+- 🌱 I’m currently learning how to use Hidden Markov Models to model foraging behaviors across various types of habitat.
 - 💞️ I’m looking to collaborate on quantitative methods to inform conservation practices.
 - 📫 How to reach me edenravecca@u.boisestate.edu
 
